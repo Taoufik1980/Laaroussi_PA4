@@ -1,0 +1,3 @@
+cat cat dog dog cat wolf
+cat dog dog wolf fish lion lion
+fish fish cat camel camel bird dog bird camel cat

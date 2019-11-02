@@ -1,0 +1,7 @@
+wolf
+camel
+cat
+fish
+bird
+dog
+lion
